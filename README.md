@@ -1,2 +1,2 @@
-Email: `user@nextmail.com`
-Password: `123456`
+- Email: `user@nextmail.com`
+- Password: `123456`
